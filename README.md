@@ -15,11 +15,4 @@ This project analyzes loan recovery patterns using customer and loan data to ide
 - Recovery strategy recommendation engine
 - Visualizations using Plotly, Seaborn, and Matplotlib
 
-## 📁 Project Structure
-smartloanrecovery/
-│
-├── smartloanrecovery_git_final.py # Clean Python script (main file)
-├── requirements.txt # Python dependencies
-├── README.md # Project overview
-└── loan-recovery.csv # Dataset (assumed to be in the same directory)
 
